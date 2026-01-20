@@ -18,6 +18,13 @@ body {
     color: white;
     scroll-behavior: smooth;
 }
+body {
+    background-image: url('logo.jpg'); /* or 'logo.png' */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
 
 /* Hero Section */
 .hero {
